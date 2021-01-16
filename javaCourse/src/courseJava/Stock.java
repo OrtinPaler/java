@@ -1,11 +1,11 @@
 package courseJava;
 
-import java.io.Serializable;
-import java.util.ArrayList;
+import java.io.Serializable;  // подключаем класс для работы с сериализацией
+import java.util.ArrayList;   // подключаем класс для работы со списками
 
 public class Stock implements Serializable {
     private int quantity;                           // кол-во товара на складе
-    private final ArrayList<Production> products;   // массив продукции
+    private final ArrayList<Production> products;   // список продукции
 
     // конструктор с параметром quantity (вместимость)
     Stock(int quantity) {
@@ -27,9 +27,8 @@ public class Stock implements Serializable {
 
     // метод для вывода информации о складе
     public void stock_info() {
-        if (this.products.size() == 0) {
+        if (this.products.size() == 0)
             System.out.print("Склад пуст...\n\n");
-        }
         else {
             System.out.println("@Склад"
                     + "\nВместимость склада: " + this.quantity

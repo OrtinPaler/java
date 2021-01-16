@@ -1,8 +1,8 @@
 package courseJava;
 
-import java.io.Serializable;
-import java.util.ArrayList;
-import java.util.Scanner;
+import java.io.Serializable;  // подключаем класс для работы с сериализацией
+import java.util.ArrayList;   // подключаем класс для работы со списками
+import java.util.Scanner;     // подключаем класс для обработки ввода
 
 public class Train implements Serializable {
     private final String number_train;              // номер поезда

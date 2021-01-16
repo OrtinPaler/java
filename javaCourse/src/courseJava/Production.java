@@ -1,8 +1,8 @@
 package courseJava;
 
-import java.io.Serializable;
+import java.io.Serializable;  // подключаем класс для работы с сериализацией
 
-// типы продукции
+// перечисление для типов продукции
 enum ProductionType {
     undefined,      // тип неопределен
     containers,     // контейнеры

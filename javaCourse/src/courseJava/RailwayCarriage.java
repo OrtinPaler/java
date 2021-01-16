@@ -1,8 +1,8 @@
 package courseJava;
 
-import java.io.Serializable;
+import java.io.Serializable;  // подключаем класс для работы с сериализацией
 
-// типы вагонов
+// перечисление для типов вагонов
 enum CarriageType {
     undefined,                  // тип неопределен
     platform_for_containers,    // платформа для контейнеров
