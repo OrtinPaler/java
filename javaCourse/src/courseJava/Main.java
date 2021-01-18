@@ -6,7 +6,6 @@
 package courseJava;
 
 import java.io.IOException; // подключаем класс для обработки исключений
-import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) throws IOException {

@@ -17,6 +17,12 @@ public class Train implements Serializable {
         this.carriages = new ArrayList<>();
     }
 
+    // конструктор с параметром number_train (номер поезда)
+    Train(String number_train) {
+        this.number_train = number_train;
+        this.carriages = new ArrayList<>();
+    }
+
     // свойство для установки вагона в поезд
     public void set_carriages(ArrayList<RailwayCarriage> carriages) { this.carriages = carriages; }
 

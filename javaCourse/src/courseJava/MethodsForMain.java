@@ -211,7 +211,7 @@ public class MethodsForMain {
         my_carriages.add(new_carriage);
     }
 
-    // метод для добавления новых вагонов в список поездов
+    // метод для добавления новых вагонов к новому поезду
     public static void fill_my_trains_list(ArrayList<Train> my_trains) throws IOException {
         // создаем новый поезд
         Train new_train = new Train();
@@ -558,8 +558,9 @@ public class MethodsForMain {
             System.out.print("Добро пожаловать, " + user.get_firstname() + " " + user.get_lastname()
                     + "\n\nМЕНЮ:"
                     + "\nДобавить пользователя ------------------------------------------------------------- 0"
-                    + "\nОтладка " + res_on_off + "-------------------------------------------------------------------- 1"
-                    + "\nАвтотесты ------------------------------------------------------------------------- 2"
+                    + "\nСписок пользователей -------------------------------------------------------------- 1"
+                    + "\nОтладка " + res_on_off + "-------------------------------------------------------------------- 2"
+                    + "\nАвтотесты ------------------------------------------------------------------------- 3"
                     + "\nВыход -------------------------------------------------------------------------- exit"
                     + "\n\nОтвет: ");
 
@@ -568,6 +569,14 @@ public class MethodsForMain {
             if (answer.equalsIgnoreCase("0"))
                 Authentication.registration(base);
             else if (answer.equalsIgnoreCase("1")) {
+                clear_terminal();
+                System.out.println("Всего пользователей: " + base.size() + "\n");
+                for (Authentication see : base) {
+                    System.out.println("Логин: " + see.get_login() + "\nПрава: " + see.get_rights() + "\n");
+                }
+                pause_terminal();
+            }
+            else if (answer.equalsIgnoreCase("2")) {
                 if (config.resolution)
                     Logs.log("@@@@@@@@@@ ОТКЛЮЧЕНИЕ ЗАПИСИ В ЛОГ ПОЛЬЗОВАТЕЛЕМ " + user.get_login() + " @@@@@@@@@@");
 
@@ -577,6 +586,9 @@ public class MethodsForMain {
 
                 if (config.resolution)
                     Logs.log("@@@@@@@@@@ ВКЛЮЧЕНИЕ ЗАПИСИ В ЛОГ ПОЛЬЗОВАТЕЛЕМ " + user.get_login() + " @@@@@@@@@@");
+            }
+            else if (answer.equalsIgnoreCase("3")) {
+                Autotests.autotests();
             }
             else if (answer.equalsIgnoreCase("exit")) {
                 Logs.log("@@@@@@@@@@ ВЫХОД ИЗ ПРИЛОЖЕНИЯ @@@@@@@@@@\n");

@@ -85,3 +85,1121 @@ Sat Jan 16 20:20:46 MSK 2021: @@@@@@@@@@ ОТКЛЮЧЕНИЕ ЗАПИСИ В ЛОГ ПОЛЬЗОВАТЕЛЕМ o
 Sat Jan 16 20:20:47 MSK 2021: @@@@@@@@@@ ВКЛЮЧЕНИЕ ЗАПИСИ В ЛОГ ПОЛЬЗОВАТЕЛЕМ ortin @@@@@@@@@@
 Sat Jan 16 20:20:52 MSK 2021: @@@@@@@@@@ ВЫХОД ИЗ ПРИЛОЖЕНИЯ @@@@@@@@@@
 
+Sat Jan 16 20:31:45 MSK 2021: @@@@@@@@@@ ВХОД В ПРИЛОЖЕНИЕ @@@@@@@@@@
+Sat Jan 16 20:31:46 MSK 2021: ДАННЫЕ О ПОЛЬЗОВАТЕЛЯХ ЗАГРУЖЕНЫ
+Sat Jan 16 20:31:55 MSK 2021: @@@@@@@@@@ ОТКЛЮЧЕНИЕ ЗАПИСИ В ЛОГ ПОЛЬЗОВАТЕЛЕМ ortin @@@@@@@@@@
+Sun Jan 17 19:35:31 MSK 2021: @@@@@@@@@@ ВКЛЮЧЕНИЕ ЗАПИСИ В ЛОГ ПОЛЬЗОВАТЕЛЕМ ortin @@@@@@@@@@
+Sun Jan 17 19:35:32 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+ADD, ID = 1, 1715700
+ADD, ID = 2, 21700
+ADD, ID = 3, 17800
+ADD, ID = 4, 87400
+ADD, ID = 5, 17300
+ADD, ID = 6, 27600
+ADD, ID = 7, 44200
+ADD, ID = 8, 14100
+ADD, ID = 9, 19400
+ADD, ID = 10, 13500
+addTotalCount = 10
+addTotalTime = 1978700
+addMedianTime = 179881
+
+REMOVE, ID = 4, 5500
+removeTotalCount = 1
+removeTotalTime = 5500
+removeMedianTime = 5500
+
+Sun Jan 17 19:35:32 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+Sun Jan 17 19:35:35 MSK 2021: @@@@@@@@@@ ВЫХОД ИЗ ПРИЛОЖЕНИЯ @@@@@@@@@@
+
+Sun Jan 17 20:06:23 MSK 2021: @@@@@@@@@@ ВХОД В ПРИЛОЖЕНИЕ @@@@@@@@@@
+Sun Jan 17 20:06:23 MSK 2021: ДАННЫЕ О ПОЛЬЗОВАТЕЛЯХ ЗАГРУЖЕНЫ
+Sun Jan 17 20:06:30 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+ADD, ID = 1, 3105600
+ADD, ID = 2, 35800
+ADD, ID = 3, 31700
+ADD, ID = 4, 31600
+ADD, ID = 5, 37400
+ADD, ID = 6, 27500
+ADD, ID = 7, 35300
+ADD, ID = 8, 16600
+ADD, ID = 9, 37100
+ADD, ID = 10, 40200
+addTotalCount = 10
+addTotalTime = 3398800
+addMedianTime = 339880
+
+REMOVE, ID = 2, 4300
+removeTotalCount = 1
+removeTotalTime = 4300
+removeMedianTime = 4300
+
+Sun Jan 17 20:06:30 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+Sun Jan 17 20:06:32 MSK 2021: @@@@@@@@@@ ВЫХОД ИЗ ПРИЛОЖЕНИЯ @@@@@@@@@@
+
+Sun Jan 17 20:12:49 MSK 2021: @@@@@@@@@@ ВХОД В ПРИЛОЖЕНИЕ @@@@@@@@@@
+Sun Jan 17 20:12:49 MSK 2021: ДАННЫЕ О ПОЛЬЗОВАТЕЛЯХ ЗАГРУЖЕНЫ
+
+Sun Jan 17 20:12:56 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+ADD, ID = 1, 3080100
+ADD, ID = 2, 21400
+ADD, ID = 3, 16200
+ADD, ID = 4, 29800
+ADD, ID = 5, 35700
+ADD, ID = 6, 27700
+ADD, ID = 7, 25200
+ADD, ID = 8, 37400
+ADD, ID = 9, 26300
+ADD, ID = 10, 26700
+addTotalCount = 10
+addTotalTime = 3326500
+addMedianTime = 332650
+REMOVE, ID = 4, 3500
+removeTotalCount = 1
+removeTotalTime = 3500
+removeMedianTime = 3500
+Sun Jan 17 20:12:56 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+Sun Jan 17 20:12:58 MSK 2021: @@@@@@@@@@ ВЫХОД ИЗ ПРИЛОЖЕНИЯ @@@@@@@@@@
+
+Sun Jan 17 20:14:24 MSK 2021: @@@@@@@@@@ ВХОД В ПРИЛОЖЕНИЕ @@@@@@@@@@
+Sun Jan 17 20:14:24 MSK 2021: ДАННЫЕ О ПОЛЬЗОВАТЕЛЯХ ЗАГРУЖЕНЫ
+
+Sun Jan 17 20:14:29 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+ADD, ID = 1, 3544600
+ADD, ID = 2, 20200
+ADD, ID = 3, 34700
+ADD, ID = 4, 28000
+ADD, ID = 5, 36000
+ADD, ID = 6, 31900
+ADD, ID = 7, 35400
+ADD, ID = 8, 27500
+ADD, ID = 9, 39400
+ADD, ID = 10, 39200
+addTotalCount = 10
+addTotalTime = 3836900
+addMedianTime = 383690
+REMOVE, ID = 5, 3500
+removeTotalCount = 1
+removeTotalTime = 3500
+removeMedianTime = 3500
+Sun Jan 17 20:14:29 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+Sun Jan 17 20:14:32 MSK 2021: @@@@@@@@@@ ВЫХОД ИЗ ПРИЛОЖЕНИЯ @@@@@@@@@@
+
+Sun Jan 17 20:16:38 MSK 2021: @@@@@@@@@@ ВХОД В ПРИЛОЖЕНИЕ @@@@@@@@@@
+Sun Jan 17 20:16:39 MSK 2021: ДАННЫЕ О ПОЛЬЗОВАТЕЛЯХ ЗАГРУЖЕНЫ
+
+Sun Jan 17 20:16:44 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+ADD, ID = 1, 3108600
+ADD, ID = 2, 20100
+ADD, ID = 3, 32200
+ADD, ID = 4, 29800
+ADD, ID = 5, 51500
+ADD, ID = 6, 27800
+ADD, ID = 7, 35300
+ADD, ID = 8, 17400
+ADD, ID = 9, 27700
+ADD, ID = 10, 26800
+addTotalCount = 10
+addTotalTime = 3377200
+addMedianTime = 337720
+REMOVE, ID = 3, 3600
+removeTotalCount = 1
+removeTotalTime = 3600
+removeMedianTime = 3600
+Sun Jan 17 20:16:44 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+Sun Jan 17 20:16:45 MSK 2021: @@@@@@@@@@ ВЫХОД ИЗ ПРИЛОЖЕНИЯ @@@@@@@@@@
+
+Sun Jan 17 21:55:40 MSK 2021: @@@@@@@@@@ ВХОД В ПРИЛОЖЕНИЕ @@@@@@@@@@
+Sun Jan 17 21:55:40 MSK 2021: ДАННЫЕ О ПОЛЬЗОВАТЕЛЯХ ЗАГРУЖЕНЫ
+
+Sun Jan 17 21:55:46 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+LinkedList
+ADD, ID = 1, 5111300
+ADD, ID = 2, 51300
+ADD, ID = 3, 20200
+ADD, ID = 4, 82000
+ADD, ID = 5, 32300
+ADD, ID = 6, 16800
+ADD, ID = 7, 104200
+ADD, ID = 8, 18500
+ADD, ID = 9, 15600
+ADD, ID = 10, 16000
+addTotalCount = 10
+addTotalTime = 5468200
+addMedianTime = 546820
+REMOVE, ID = 9, 6500
+removeTotalCount = 1
+removeTotalTime = 6500
+removeMedianTime = 6500
+Sun Jan 17 21:55:46 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+Sun Jan 17 21:55:48 MSK 2021: @@@@@@@@@@ ВЫХОД ИЗ ПРИЛОЖЕНИЯ @@@@@@@@@@
+
+
+Sun Jan 17 22:01:41 MSK 2021: @@@@@@@@@@ ВХОД В ПРИЛОЖЕНИЕ @@@@@@@@@@
+Sun Jan 17 22:01:41 MSK 2021: ДАННЫЕ О ПОЛЬЗОВАТЕЛЯХ ЗАГРУЖЕНЫ
+
+Sun Jan 17 22:01:46 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 10
+addTotalTime = 3869500
+addMedianTime = 386950
+removeTotalCount = 1
+removeTotalTime = 28700
+removeMedianTime = 28700
+LinkedList
+addTotalCount = 10
+addTotalTime = 189600
+addMedianTime = 18960
+removeTotalCount = 1
+removeTotalTime = 4500
+removeMedianTime = 4500
+Sun Jan 17 22:01:47 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+Sun Jan 17 22:01:49 MSK 2021: @@@@@@@@@@ ВЫХОД ИЗ ПРИЛОЖЕНИЯ @@@@@@@@@@
+
+Sun Jan 17 22:03:02 MSK 2021: @@@@@@@@@@ ВХОД В ПРИЛОЖЕНИЕ @@@@@@@@@@
+Sun Jan 17 22:03:02 MSK 2021: ДАННЫЕ О ПОЛЬЗОВАТЕЛЯХ ЗАГРУЖЕНЫ
+
+Sun Jan 17 22:03:10 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 100
+addTotalTime = 4927900
+addMedianTime = 49279
+removeTotalCount = 10
+removeTotalTime = 12500
+removeMedianTime = 1250
+LinkedList
+addTotalCount = 100
+addTotalTime = 269400
+addMedianTime = 2694
+removeTotalCount = 10
+removeTotalTime = 35400
+removeMedianTime = 3540
+Sun Jan 17 22:03:10 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+Sun Jan 17 22:03:13 MSK 2021: @@@@@@@@@@ ВЫХОД ИЗ ПРИЛОЖЕНИЯ @@@@@@@@@@
+
+Sun Jan 17 22:04:18 MSK 2021: @@@@@@@@@@ ВХОД В ПРИЛОЖЕНИЕ @@@@@@@@@@
+Sun Jan 17 22:04:18 MSK 2021: ДАННЫЕ О ПОЛЬЗОВАТЕЛЯХ ЗАГРУЖЕНЫ
+
+Sun Jan 17 22:04:24 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 1000
+addTotalTime = 6661200
+addMedianTime = 6661
+
+Sun Jan 17 22:09:32 MSK 2021: @@@@@@@@@@ ВХОД В ПРИЛОЖЕНИЕ @@@@@@@@@@
+Sun Jan 17 22:09:32 MSK 2021: ДАННЫЕ О ПОЛЬЗОВАТЕЛЯХ ЗАГРУЖЕНЫ
+
+Sun Jan 17 22:09:37 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 1000
+addTotalTime = 6565800
+addMedianTime = 6565
+
+Sun Jan 17 22:18:43 MSK 2021: @@@@@@@@@@ ВХОД В ПРИЛОЖЕНИЕ @@@@@@@@@@
+Sun Jan 17 22:18:43 MSK 2021: ДАННЫЕ О ПОЛЬЗОВАТЕЛЯХ ЗАГРУЖЕНЫ
+
+Sun Jan 17 22:18:48 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 1000
+addTotalTime = 6946800
+addMedianTime = 6946
+Sun Jan 17 22:26:46 MSK 2021: @@@@@@@@@@ ВХОД В ПРИЛОЖЕНИЕ @@@@@@@@@@
+Sun Jan 17 22:26:46 MSK 2021: ДАННЫЕ О ПОЛЬЗОВАТЕЛЯХ ЗАГРУЖЕНЫ
+
+Sun Jan 17 22:26:52 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 1000
+addTotalTime = 6683000
+addMedianTime = 6683
+removeTotalCount = 100
+removeTotalTime = 66100
+removeMedianTime = 661
+LinkedList
+addTotalCount = 1000
+addTotalTime = 1065300
+addMedianTime = 1065
+removeTotalCount = 100
+removeTotalTime = 388200
+removeMedianTime = 3882
+Sun Jan 17 22:26:52 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+Sun Jan 17 22:26:54 MSK 2021: @@@@@@@@@@ ВЫХОД ИЗ ПРИЛОЖЕНИЯ @@@@@@@@@@
+
+Sun Jan 17 22:27:40 MSK 2021: @@@@@@@@@@ ВХОД В ПРИЛОЖЕНИЕ @@@@@@@@@@
+Sun Jan 17 22:27:40 MSK 2021: ДАННЫЕ О ПОЛЬЗОВАТЕЛЯХ ЗАГРУЖЕНЫ
+Sun Jan 17 22:27:47 MSK 2021: @@@@@@@@@@ ОТКЛЮЧЕНИЕ ЗАПИСИ В ЛОГ ПОЛЬЗОВАТЕЛЕМ ortin @@@@@@@@@@
+
+Sun Jan 17 22:28:25 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 100000
+addTotalTime = 185215500
+addMedianTime = 1852
+removeTotalCount = 10000
+removeTotalTime = 65108800
+removeMedianTime = 6510
+LinkedList
+addTotalCount = 100000
+addTotalTime = 153783200
+addMedianTime = 1537
+removeTotalCount = 10000
+removeTotalTime = 10649901300
+removeMedianTime = 1064990
+Sun Jan 17 22:28:47 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+
+Sun Jan 17 22:35:04 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 10
+addTotalTime = 3969500
+addMedianTime = 396950
+removeTotalCount = 1
+removeTotalTime = 4600
+removeMedianTime = 4600
+LinkedList
+addTotalCount = 10
+addTotalTime = 497400
+addMedianTime = 49740
+removeTotalCount = 1
+removeTotalTime = 4200
+removeMedianTime = 4200
+Sun Jan 17 22:35:04 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+
+Sun Jan 17 22:37:01 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 10
+addTotalTime = 3839500
+addMedianTime = 383950
+removeTotalCount = 1
+removeTotalTime = 11600
+removeMedianTime = 11600
+LinkedList
+addTotalCount = 10
+addTotalTime = 168200
+addMedianTime = 16820
+removeTotalCount = 1
+removeTotalTime = 5500
+removeMedianTime = 5500
+Sun Jan 17 22:37:01 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+
+Sun Jan 17 22:38:05 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 10
+addTotalTime = 3863300
+addMedianTime = 386330
+removeTotalCount = 1
+removeTotalTime = 4200
+removeMedianTime = 4200
+LinkedList
+addTotalCount = 10
+addTotalTime = 413700
+addMedianTime = 41370
+removeTotalCount = 1
+removeTotalTime = 4300
+removeMedianTime = 4300
+Sun Jan 17 22:38:05 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+
+Tue Jan 19 01:57:44 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 10
+addTotalTime = 1787200
+addMedianTime = 178720
+removeTotalCount = 1
+removeTotalTime = 2800
+removeMedianTime = 2800
+addTotalCount = 100
+addTotalTime = 914500
+addMedianTime = 9145
+removeTotalCount = 10
+removeTotalTime = 6800
+removeMedianTime = 680
+addTotalCount = 1000
+addTotalTime = 1369200
+addMedianTime = 1369
+removeTotalCount = 100
+removeTotalTime = 71700
+removeMedianTime = 717
+addTotalCount = 10000
+addTotalTime = 10077800
+addMedianTime = 1007
+removeTotalCount = 1000
+removeTotalTime = 1361200
+removeMedianTime = 1361
+addTotalCount = 100000
+addTotalTime = 120997000
+addMedianTime = 1209
+removeTotalCount = 10000
+removeTotalTime = 49411800
+removeMedianTime = 4941
+LinkedList
+addTotalCount = 10
+addTotalTime = 11000
+addMedianTime = 1100
+removeTotalCount = 1
+removeTotalTime = 10000
+removeMedianTime = 10000
+addTotalCount = 100
+addTotalTime = 83000
+addMedianTime = 830
+removeTotalCount = 10
+removeTotalTime = 7100
+removeMedianTime = 710
+addTotalCount = 1000
+addTotalTime = 714300
+addMedianTime = 714
+removeTotalCount = 100
+removeTotalTime = 272500
+removeMedianTime = 2725
+addTotalCount = 10000
+addTotalTime = 23458900
+addMedianTime = 2345
+removeTotalCount = 1000
+removeTotalTime = 30587900
+removeMedianTime = 30587
+addTotalCount = 100000
+addTotalTime = 111659800
+addMedianTime = 1116
+removeTotalCount = 10000
+removeTotalTime = 9490482700
+removeMedianTime = 949048
+Tue Jan 19 01:58:04 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+
+Tue Jan 19 02:04:43 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 10
+addTotalTime = 5050400
+addMedianTime = 505040
+removeTotalCount = 1
+removeTotalTime = 14700
+removeMedianTime = 14700
+addTotalCount = 100
+addTotalTime = 1059300
+addMedianTime = 10593
+removeTotalCount = 10
+removeTotalTime = 24800
+removeMedianTime = 2480
+addTotalCount = 1000
+addTotalTime = 1471000
+addMedianTime = 1471
+removeTotalCount = 100
+removeTotalTime = 59100
+removeMedianTime = 591
+addTotalCount = 10000
+addTotalTime = 11065000
+addMedianTime = 1106
+removeTotalCount = 1000
+removeTotalTime = 1357400
+removeMedianTime = 1357
+addTotalCount = 100000
+addTotalTime = 99132900
+addMedianTime = 991
+removeTotalCount = 10000
+removeTotalTime = 50903000
+removeMedianTime = 5090
+LinkedList
+addTotalCount = 10
+addTotalTime = 10900
+addMedianTime = 1090
+removeTotalCount = 1
+removeTotalTime = 3000
+removeMedianTime = 3000
+addTotalCount = 100
+addTotalTime = 71500
+addMedianTime = 715
+removeTotalCount = 10
+removeTotalTime = 7100
+removeMedianTime = 710
+addTotalCount = 1000
+addTotalTime = 616000
+addMedianTime = 616
+removeTotalCount = 100
+removeTotalTime = 252800
+removeMedianTime = 2528
+addTotalCount = 10000
+addTotalTime = 5325600
+addMedianTime = 532
+removeTotalCount = 1000
+removeTotalTime = 29954700
+removeMedianTime = 29954
+addTotalCount = 100000
+addTotalTime = 113657600
+addMedianTime = 1136
+removeTotalCount = 10000
+removeTotalTime = 9381501600
+removeMedianTime = 938150
+Tue Jan 19 02:05:03 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+
+Tue Jan 19 02:05:46 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 10
+addTotalTime = 3052300
+addMedianTime = 305230
+removeTotalCount = 1
+removeTotalTime = 3000
+removeMedianTime = 3000
+addTotalCount = 100
+addTotalTime = 687600
+addMedianTime = 6876
+removeTotalCount = 10
+removeTotalTime = 6500
+removeMedianTime = 650
+addTotalCount = 1000
+addTotalTime = 1355400
+addMedianTime = 1355
+removeTotalCount = 100
+removeTotalTime = 98900
+removeMedianTime = 989
+addTotalCount = 10000
+addTotalTime = 10046400
+addMedianTime = 1004
+removeTotalCount = 1000
+removeTotalTime = 1249000
+removeMedianTime = 1249
+addTotalCount = 100000
+addTotalTime = 94198200
+addMedianTime = 941
+removeTotalCount = 10000
+removeTotalTime = 48622800
+removeMedianTime = 4862
+LinkedList
+addTotalCount = 10
+addTotalTime = 11800
+addMedianTime = 1180
+removeTotalCount = 1
+removeTotalTime = 7400
+removeMedianTime = 7400
+addTotalCount = 100
+addTotalTime = 71400
+addMedianTime = 714
+removeTotalCount = 10
+removeTotalTime = 8100
+removeMedianTime = 810
+addTotalCount = 1000
+addTotalTime = 671500
+addMedianTime = 671
+removeTotalCount = 100
+removeTotalTime = 264800
+removeMedianTime = 2648
+addTotalCount = 10000
+addTotalTime = 5379400
+addMedianTime = 537
+removeTotalCount = 1000
+removeTotalTime = 34170900
+removeMedianTime = 34170
+addTotalCount = 100000
+addTotalTime = 106412600
+addMedianTime = 1064
+removeTotalCount = 10000
+removeTotalTime = 9296541200
+removeMedianTime = 929654
+Tue Jan 19 02:06:05 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+
+Tue Jan 19 02:08:06 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 10
+addTotalTime = 1455500
+addMedianTime = 145550
+removeTotalCount = 1
+removeTotalTime = 1800
+removeMedianTime = 1800
+addTotalCount = 100
+addTotalTime = 699600
+addMedianTime = 6996
+removeTotalCount = 10
+removeTotalTime = 6300
+removeMedianTime = 630
+addTotalCount = 1000
+addTotalTime = 1350500
+addMedianTime = 1350
+removeTotalCount = 100
+removeTotalTime = 83900
+removeMedianTime = 839
+addTotalCount = 10000
+addTotalTime = 9628900
+addMedianTime = 962
+removeTotalCount = 1000
+removeTotalTime = 1252200
+removeMedianTime = 1252
+addTotalCount = 100000
+addTotalTime = 95649600
+addMedianTime = 956
+removeTotalCount = 10000
+removeTotalTime = 48712800
+removeMedianTime = 4871
+LinkedList
+addTotalCount = 10
+addTotalTime = 11400
+addMedianTime = 1140
+removeTotalCount = 1
+removeTotalTime = 4700
+removeMedianTime = 4700
+addTotalCount = 100
+addTotalTime = 66100
+addMedianTime = 661
+removeTotalCount = 10
+removeTotalTime = 6600
+removeMedianTime = 660
+addTotalCount = 1000
+addTotalTime = 631100
+addMedianTime = 631
+removeTotalCount = 100
+removeTotalTime = 273100
+removeMedianTime = 2731
+addTotalCount = 10000
+addTotalTime = 5428900
+addMedianTime = 542
+removeTotalCount = 1000
+removeTotalTime = 30062100
+removeMedianTime = 30062
+addTotalCount = 100000
+addTotalTime = 108479700
+addMedianTime = 1084
+removeTotalCount = 10000
+removeTotalTime = 9265117000
+removeMedianTime = 926511
+Tue Jan 19 02:08:26 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+
+Tue Jan 19 02:10:31 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 10
+addTotalTime = 11285800
+addMedianTime = 1128580
+removeTotalCount = 1
+removeTotalTime = 25900
+removeMedianTime = 25900
+addTotalCount = 100
+addTotalTime = 1024600
+addMedianTime = 10246
+removeTotalCount = 10
+removeTotalTime = 6100
+removeMedianTime = 610
+addTotalCount = 1000
+addTotalTime = 1520500
+addMedianTime = 1520
+removeTotalCount = 100
+removeTotalTime = 60100
+removeMedianTime = 601
+addTotalCount = 10000
+addTotalTime = 9906200
+addMedianTime = 990
+removeTotalCount = 1000
+removeTotalTime = 1458100
+removeMedianTime = 1458
+addTotalCount = 100000
+addTotalTime = 96297700
+addMedianTime = 962
+removeTotalCount = 10000
+removeTotalTime = 50286000
+removeMedianTime = 5028
+LinkedList
+addTotalCount = 10
+addTotalTime = 11200
+addMedianTime = 1120
+removeTotalCount = 1
+removeTotalTime = 3200
+removeMedianTime = 3200
+addTotalCount = 100
+addTotalTime = 84300
+addMedianTime = 843
+removeTotalCount = 10
+removeTotalTime = 13000
+removeMedianTime = 1300
+addTotalCount = 1000
+addTotalTime = 614700
+addMedianTime = 614
+removeTotalCount = 100
+removeTotalTime = 250400
+removeMedianTime = 2504
+addTotalCount = 10000
+addTotalTime = 5528300
+addMedianTime = 552
+removeTotalCount = 1000
+removeTotalTime = 33348900
+removeMedianTime = 33348
+addTotalCount = 100000
+addTotalTime = 115629000
+addMedianTime = 1156
+removeTotalCount = 10000
+removeTotalTime = 9553732300
+removeMedianTime = 955373
+Tue Jan 19 02:10:52 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+
+Tue Jan 19 02:11:37 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 10
+addTotalTime = 3726300
+addMedianTime = 372630
+removeTotalCount = 1
+removeTotalTime = 2100
+removeMedianTime = 2100
+addTotalCount = 100
+addTotalTime = 704800
+addMedianTime = 7048
+removeTotalCount = 10
+removeTotalTime = 6700
+removeMedianTime = 670
+addTotalCount = 1000
+addTotalTime = 3208100
+addMedianTime = 3208
+removeTotalCount = 100
+removeTotalTime = 126900
+removeMedianTime = 1269
+addTotalCount = 10000
+addTotalTime = 10501800
+addMedianTime = 1050
+removeTotalCount = 1000
+removeTotalTime = 1529900
+removeMedianTime = 1529
+addTotalCount = 100000
+addTotalTime = 103462100
+addMedianTime = 1034
+removeTotalCount = 10000
+removeTotalTime = 48499900
+removeMedianTime = 4849
+LinkedList
+addTotalCount = 10
+addTotalTime = 12400
+addMedianTime = 1240
+removeTotalCount = 1
+removeTotalTime = 3900
+removeMedianTime = 3900
+addTotalCount = 100
+addTotalTime = 68000
+addMedianTime = 680
+removeTotalCount = 10
+removeTotalTime = 9400
+removeMedianTime = 940
+addTotalCount = 1000
+addTotalTime = 860600
+addMedianTime = 860
+removeTotalCount = 100
+removeTotalTime = 291100
+removeMedianTime = 2911
+addTotalCount = 10000
+addTotalTime = 5561300
+addMedianTime = 556
+removeTotalCount = 1000
+removeTotalTime = 34760900
+removeMedianTime = 34760
+addTotalCount = 100000
+addTotalTime = 106448300
+addMedianTime = 1064
+removeTotalCount = 10000
+removeTotalTime = 12111910300
+removeMedianTime = 1211191
+Tue Jan 19 02:12:02 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+
+Tue Jan 19 02:13:36 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 10
+addTotalTime = 4536200
+addMedianTime = 453620
+removeTotalCount = 1
+removeTotalTime = 3100
+removeMedianTime = 3100
+addTotalCount = 100
+addTotalTime = 597400
+addMedianTime = 5974
+removeTotalCount = 10
+removeTotalTime = 6000
+removeMedianTime = 600
+addTotalCount = 1000
+addTotalTime = 1425200
+addMedianTime = 1425
+removeTotalCount = 100
+removeTotalTime = 89500
+removeMedianTime = 895
+addTotalCount = 10000
+addTotalTime = 9321500
+addMedianTime = 932
+removeTotalCount = 1000
+removeTotalTime = 1082600
+removeMedianTime = 1082
+addTotalCount = 100000
+addTotalTime = 97174600
+addMedianTime = 971
+removeTotalCount = 10000
+removeTotalTime = 51177500
+removeMedianTime = 5117
+LinkedList
+addTotalCount = 10
+addTotalTime = 11200
+addMedianTime = 1120
+removeTotalCount = 1
+removeTotalTime = 3200
+removeMedianTime = 3200
+addTotalCount = 100
+addTotalTime = 66800
+addMedianTime = 668
+removeTotalCount = 10
+removeTotalTime = 6900
+removeMedianTime = 690
+addTotalCount = 1000
+addTotalTime = 632900
+addMedianTime = 632
+removeTotalCount = 100
+removeTotalTime = 234700
+removeMedianTime = 2347
+addTotalCount = 10000
+addTotalTime = 5081100
+addMedianTime = 508
+removeTotalCount = 1000
+removeTotalTime = 32646300
+removeMedianTime = 32646
+addTotalCount = 100000
+addTotalTime = 119093600
+addMedianTime = 1190
+removeTotalCount = 10000
+removeTotalTime = 10374194200
+removeMedianTime = 1037419
+Tue Jan 19 02:13:58 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+
+Tue Jan 19 02:15:28 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 10
+addTotalTime = 4344100
+addMedianTime = 434410
+removeTotalCount = 1
+removeTotalTime = 3700
+removeMedianTime = 3700
+addTotalCount = 100
+addTotalTime = 717500
+addMedianTime = 7175
+removeTotalCount = 10
+removeTotalTime = 6000
+removeMedianTime = 600
+addTotalCount = 1000
+addTotalTime = 1390900
+addMedianTime = 1390
+removeTotalCount = 100
+removeTotalTime = 88400
+removeMedianTime = 884
+addTotalCount = 10000
+addTotalTime = 9889900
+addMedianTime = 988
+removeTotalCount = 1000
+removeTotalTime = 2161500
+removeMedianTime = 2161
+addTotalCount = 100000
+addTotalTime = 96458800
+addMedianTime = 964
+removeTotalCount = 10000
+removeTotalTime = 50693800
+removeMedianTime = 5069
+LinkedList
+addTotalCount = 10
+addTotalTime = 25100
+addMedianTime = 2510
+removeTotalCount = 1
+removeTotalTime = 5200
+removeMedianTime = 5200
+addTotalCount = 100
+addTotalTime = 92000
+addMedianTime = 920
+removeTotalCount = 10
+removeTotalTime = 7500
+removeMedianTime = 750
+addTotalCount = 1000
+addTotalTime = 736500
+addMedianTime = 736
+removeTotalCount = 100
+removeTotalTime = 395300
+removeMedianTime = 3953
+addTotalCount = 10000
+addTotalTime = 5235000
+addMedianTime = 523
+removeTotalCount = 1000
+removeTotalTime = 33242200
+removeMedianTime = 33242
+addTotalCount = 100000
+addTotalTime = 123064000
+addMedianTime = 1230
+removeTotalCount = 10000
+removeTotalTime = 9631293300
+removeMedianTime = 963129
+Tue Jan 19 02:15:48 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+
+Tue Jan 19 02:16:49 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 10
+addTotalTime = 3099200
+addMedianTime = 309920
+removeTotalCount = 1
+removeTotalTime = 2800
+removeMedianTime = 2800
+addTotalCount = 100
+addTotalTime = 709600
+addMedianTime = 7096
+removeTotalCount = 10
+removeTotalTime = 5900
+removeMedianTime = 590
+addTotalCount = 1000
+addTotalTime = 1446500
+addMedianTime = 1446
+removeTotalCount = 100
+removeTotalTime = 88000
+removeMedianTime = 880
+addTotalCount = 10000
+addTotalTime = 9545600
+addMedianTime = 954
+removeTotalCount = 1000
+removeTotalTime = 1565600
+removeMedianTime = 1565
+addTotalCount = 100000
+addTotalTime = 116128900
+addMedianTime = 1161
+removeTotalCount = 10000
+removeTotalTime = 49133800
+removeMedianTime = 4913
+LinkedList
+addTotalCount = 10
+addTotalTime = 23200
+addMedianTime = 2320
+removeTotalCount = 1
+removeTotalTime = 5100
+removeMedianTime = 5100
+addTotalCount = 100
+addTotalTime = 80500
+addMedianTime = 805
+removeTotalCount = 10
+removeTotalTime = 8400
+removeMedianTime = 840
+addTotalCount = 1000
+addTotalTime = 1109800
+addMedianTime = 1109
+removeTotalCount = 100
+removeTotalTime = 425300
+removeMedianTime = 4253
+addTotalCount = 10000
+addTotalTime = 6244400
+addMedianTime = 624
+removeTotalCount = 1000
+removeTotalTime = 33509900
+removeMedianTime = 33509
+addTotalCount = 100000
+addTotalTime = 116102800
+addMedianTime = 1161
+removeTotalCount = 10000
+removeTotalTime = 9298451100
+removeMedianTime = 929845
+Tue Jan 19 02:17:09 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+
+Tue Jan 19 02:18:44 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 10
+addTotalTime = 4329300
+addMedianTime = 432930
+removeTotalCount = 1
+removeTotalTime = 3100
+removeMedianTime = 3100
+addTotalCount = 100
+addTotalTime = 804900
+addMedianTime = 8049
+removeTotalCount = 10
+removeTotalTime = 7800
+removeMedianTime = 780
+addTotalCount = 1000
+addTotalTime = 1419200
+addMedianTime = 1419
+removeTotalCount = 100
+removeTotalTime = 133400
+removeMedianTime = 1334
+addTotalCount = 10000
+addTotalTime = 10806300
+addMedianTime = 1080
+removeTotalCount = 1000
+removeTotalTime = 1231000
+removeMedianTime = 1231
+addTotalCount = 100000
+addTotalTime = 99501400
+addMedianTime = 995
+removeTotalCount = 10000
+removeTotalTime = 50581200
+removeMedianTime = 5058
+LinkedList
+addTotalCount = 10
+addTotalTime = 11400
+addMedianTime = 1140
+removeTotalCount = 1
+removeTotalTime = 3200
+removeMedianTime = 3200
+addTotalCount = 100
+addTotalTime = 83000
+addMedianTime = 830
+removeTotalCount = 10
+removeTotalTime = 6900
+removeMedianTime = 690
+addTotalCount = 1000
+addTotalTime = 622400
+addMedianTime = 622
+removeTotalCount = 100
+removeTotalTime = 267300
+removeMedianTime = 2673
+addTotalCount = 10000
+addTotalTime = 5341200
+addMedianTime = 534
+removeTotalCount = 1000
+removeTotalTime = 31322700
+removeMedianTime = 31322
+addTotalCount = 100000
+addTotalTime = 116250600
+addMedianTime = 1162
+removeTotalCount = 10000
+removeTotalTime = 9226337200
+removeMedianTime = 922633
+Tue Jan 19 02:19:04 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+
+Tue Jan 19 02:20:14 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 10
+addTotalTime = 3302200
+addMedianTime = 330220
+removeTotalCount = 1
+removeTotalTime = 25400
+removeMedianTime = 25400
+addTotalCount = 100
+addTotalTime = 769000
+addMedianTime = 7690
+removeTotalCount = 10
+removeTotalTime = 5900
+removeMedianTime = 590
+addTotalCount = 1000
+addTotalTime = 1628300
+addMedianTime = 1628
+removeTotalCount = 100
+removeTotalTime = 62400
+removeMedianTime = 624
+addTotalCount = 10000
+addTotalTime = 9623600
+addMedianTime = 962
+removeTotalCount = 1000
+removeTotalTime = 1470600
+removeMedianTime = 1470
+addTotalCount = 100000
+addTotalTime = 95048000
+addMedianTime = 950
+removeTotalCount = 10000
+removeTotalTime = 50711100
+removeMedianTime = 5071
+LinkedList
+addTotalCount = 10
+addTotalTime = 23000
+addMedianTime = 2300
+removeTotalCount = 1
+removeTotalTime = 5000
+removeMedianTime = 5000
+addTotalCount = 100
+addTotalTime = 65700
+addMedianTime = 657
+removeTotalCount = 10
+removeTotalTime = 7300
+removeMedianTime = 730
+addTotalCount = 1000
+addTotalTime = 701400
+addMedianTime = 701
+removeTotalCount = 100
+removeTotalTime = 273500
+removeMedianTime = 2735
+addTotalCount = 10000
+addTotalTime = 5384100
+addMedianTime = 538
+removeTotalCount = 1000
+removeTotalTime = 35548600
+removeMedianTime = 35548
+addTotalCount = 100000
+addTotalTime = 107337500
+addMedianTime = 1073
+removeTotalCount = 10000
+removeTotalTime = 9379680700
+removeMedianTime = 937968
+Tue Jan 19 02:20:34 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+
+
+Tue Jan 19 02:21:38 MSK 2021: @@@@@@@@@@ Запуск автотестов @@@@@@@@@@
+ArrayList
+addTotalCount = 10
+addTotalTime = 3295400
+addMedianTime = 329540
+removeTotalCount = 1
+removeTotalTime = 3400
+removeMedianTime = 3400
+addTotalCount = 100
+addTotalTime = 671900
+addMedianTime = 6719
+removeTotalCount = 10
+removeTotalTime = 5900
+removeMedianTime = 590
+addTotalCount = 1000
+addTotalTime = 1500100
+addMedianTime = 1500
+removeTotalCount = 100
+removeTotalTime = 80600
+removeMedianTime = 806
+addTotalCount = 10000
+addTotalTime = 8957600
+addMedianTime = 895
+removeTotalCount = 1000
+removeTotalTime = 1256800
+removeMedianTime = 1256
+addTotalCount = 100000
+addTotalTime = 96270900
+addMedianTime = 962
+removeTotalCount = 10000
+removeTotalTime = 49601500
+removeMedianTime = 4960
+LinkedList
+addTotalCount = 10
+addTotalTime = 23500
+addMedianTime = 2350
+removeTotalCount = 1
+removeTotalTime = 5500
+removeMedianTime = 5500
+addTotalCount = 100
+addTotalTime = 70700
+addMedianTime = 707
+removeTotalCount = 10
+removeTotalTime = 7700
+removeMedianTime = 770
+addTotalCount = 1000
+addTotalTime = 611800
+addMedianTime = 611
+removeTotalCount = 100
+removeTotalTime = 241900
+removeMedianTime = 2419
+addTotalCount = 10000
+addTotalTime = 5282500
+addMedianTime = 528
+removeTotalCount = 1000
+removeTotalTime = 32039900
+removeMedianTime = 32039
+addTotalCount = 100000
+addTotalTime = 118197200
+addMedianTime = 1181
+removeTotalCount = 10000
+removeTotalTime = 9265456900
+removeMedianTime = 926545
+Tue Jan 19 02:21:58 MSK 2021: @@@@@@@@@@ Конец автотестов @@@@@@@@@@
+

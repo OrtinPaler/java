@@ -21,4 +21,15 @@ public class Logs {
             }
         }
     }
+
+    // метод для записис в лог во время автотестов
+    public static void log_of_autotests(String log) {
+        try(FileWriter writer = new FileWriter("D:/5_semester/java/javaCourse/data/logs.txt", true)) {
+            writer.write(log + "\n");
+            writer.flush(); // финализирует выходное состояние, очищая все буферы вывода
+        }
+        catch(IOException ex) {
+            System.out.println(ex.getMessage());
+        }
+    }
 }
