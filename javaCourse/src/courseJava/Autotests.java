@@ -201,14 +201,11 @@ public class Autotests {
         autotests_of_linkedList(100000, linkedList_addTotal_points, linkedList_removeTotal_points,
                 linkedList_addMedian_points, linkedList_removeMedian_points);
 
-        Schedule.create_schedule(arrayList_addTotal_points,
-                                arrayList_removeTotal_points,
-                                arrayList_addMedian_points,
-                                arrayList_removeMedian_points,
-                                linkedList_addTotal_points,
-                                linkedList_removeTotal_points,
-                                linkedList_addMedian_points,
-                                linkedList_removeMedian_points);
+        Schedule.create_schedule_addTotal(arrayList_addTotal_points, linkedList_addTotal_points);
+        Schedule.create_schedule_removeTotal(arrayList_removeTotal_points, linkedList_removeTotal_points);
+        Schedule.create_schedule_addMedian(arrayList_addMedian_points, linkedList_addMedian_points);
+        Schedule.create_schedule_removeMedian(arrayList_removeMedian_points, linkedList_removeMedian_points);
+
 
         System.out.println(new Date() + ": @@@@@@@@@@ Конец автотестов @@@@@@@@@@\n");
         Logs.log_of_autotests(new Date() + ": @@@@@@@@@@ Конец автотестов @@@@@@@@@@\n");
