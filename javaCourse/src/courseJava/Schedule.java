@@ -206,14 +206,14 @@ public class Schedule {
                     for (int i = 0; i < 5; i++) {
                         g2.setColor(Color.RED);
                         array_x_finish = axisX.getX1() + arrayList_points.get(i).point_x * 282;
-                        array_y_finish = axisY.getY2() - arrayList_points.get(i).point_y / 1000000 / 13.3575;
+                        array_y_finish = axisY.getY2() - arrayList_points.get(i).point_y / 10000 / 13.3575;
                         g2.draw(new Line2D.Double(array_x_start, array_y_start, array_x_finish, array_y_finish));
                         array_x_start = array_x_finish;
                         array_y_start = array_y_finish;
 
                         g2.setColor(Color.BLUE);
                         link_x_finish = axisX.getX1() + linkedList_points.get(i).point_x * 282;
-                        link_y_finish = axisY.getY2() - linkedList_points.get(i).point_y / 1000000 / 13.3575;
+                        link_y_finish = axisY.getY2() - linkedList_points.get(i).point_y / 1000000 / 30;
                         g2.draw(new Line2D.Double(link_x_start, link_y_start, link_x_finish, link_y_finish));
                         link_x_start = link_x_finish;
                         link_y_start = link_y_finish;
@@ -414,14 +414,14 @@ public class Schedule {
                     for (int i = 0; i < 5; i++) {
                         g2.setColor(Color.RED);
                         array_x_finish = axisX.getX1() + arrayList_points.get(i).point_x * 282;
-                        array_y_finish = axisY.getY2() - arrayList_points.get(i).point_y / 1000 / 1.2675;
+                        array_y_finish = axisY.getY2() - arrayList_points.get(i).point_y / 1000 / 1;
                         g2.draw(new Line2D.Double(array_x_start, array_y_start, array_x_finish, array_y_finish));
                         array_x_start = array_x_finish;
                         array_y_start = array_y_finish;
 
                         g2.setColor(Color.BLUE);
                         link_x_finish = axisX.getX1() + linkedList_points.get(i).point_x * 282;
-                        link_y_finish = axisY.getY2() - linkedList_points.get(i).point_y / 1000 / 1.2675;
+                        link_y_finish = axisY.getY2() - linkedList_points.get(i).point_y / 1000 / 3;
                         g2.draw(new Line2D.Double(link_x_start, link_y_start, link_x_finish, link_y_finish));
                         link_x_start = link_x_finish;
                         link_y_start = link_y_finish;
