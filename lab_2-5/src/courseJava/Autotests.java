@@ -61,7 +61,7 @@ public class Autotests {
             arrayList.add(train);   // заполняем список поездами
             finish = System.nanoTime();             // конец отчета времени
             add_time[i - 1] = finish - start;       // считаем время, затраченное на создание поезда
-            //System.out.println("ADD, ID = " + ID + ", " + add_time[i - 1]);
+            System.out.println("ADD, ID = " + ID + ", " + add_time[i - 1]);
             Logs.log_of_autotests("ADD, ID = " + ID + ", " + add_time[i - 1]);
         }
 
@@ -76,7 +76,7 @@ public class Autotests {
                 + "\naddTotalTime = " + Arrays.stream(add_time).sum()
                 + "\naddMedianTime = " + Arrays.stream(add_time).sum() / size);
 
-        /*long[] remove_time = new long[size / 10];
+        long[] remove_time = new long[size / 10];
 
         for (int i = 0; i < (size / 10); i++) {
             int some_id = (int)(0 + Math.random() * (size - i));           // выбираем случайный поезд для удаления
@@ -98,7 +98,7 @@ public class Autotests {
 
         Logs.log_of_autotests("removeTotalCount = " + (size / 10)
                 + "\nremoveTotalTime = " + Arrays.stream(remove_time).sum()
-                + "\nremoveMedianTime = " + Arrays.stream(remove_time).sum() / (size / 10));*/
+                + "\nremoveMedianTime = " + Arrays.stream(remove_time).sum() / (size / 10));
     }
 
     // метод для рассчета времени добавления в LinkedList и удаления из LinkedList
@@ -118,7 +118,7 @@ public class Autotests {
             arrayList.add(create_some_train(ID));   // заполняем список поездами
             finish = System.nanoTime();             // конец отчета времени
             add_time[i - 1] = finish - start;       // считаем время, затраченное на создание поезда
-            //System.out.println("ADD, ID = " + ID + ", " + add_time[i - 1]);
+            System.out.println("ADD, ID = " + ID + ", " + add_time[i - 1]);
             Logs.log_of_autotests("ADD, ID = " + ID + ", " + add_time[i - 1]);
         }
 
@@ -142,7 +142,7 @@ public class Autotests {
             arrayList.remove(some_id);                                     // удаляем из списка случайный элемент
             finish = System.nanoTime();                                    // конец отчета времени
             remove_time[i] = finish - start;                               // считаем время, затраченное на удаление поезда
-            //System.out.println("REMOVE, ID = " + num_train + ", " + remove_time[i]);
+            System.out.println("REMOVE, ID = " + num_train + ", " + remove_time[i]);
             Logs.log_of_autotests("REMOVE, ID = " + num_train + ", " + remove_time[i]);
         }
 
@@ -186,7 +186,7 @@ public class Autotests {
         autotests_of_arrayList(((((10 * 3 / 2 + 1) * 3 / 2 + 1) * 3 / 2 + 1) * 3 / 2 + 1) * 3 / 2 + 1, arrayList_addTotal_points, arrayList_removeTotal_points,
                 arrayList_addMedian_points, arrayList_removeMedian_points);
 
-        /*System.out.println("\nLinkedList");
+        System.out.println("\nLinkedList");
         Logs.log_of_autotests("LinkedList");
 
         ArrayList<Point> linkedList_addTotal_points = new ArrayList<>();
@@ -208,7 +208,7 @@ public class Autotests {
         Schedule.create_schedule_addTotal(arrayList_addTotal_points, linkedList_addTotal_points);
         Schedule.create_schedule_removeTotal(arrayList_removeTotal_points, linkedList_removeTotal_points);
         Schedule.create_schedule_addMedian(arrayList_addMedian_points, linkedList_addMedian_points);
-        Schedule.create_schedule_removeMedian(arrayList_removeMedian_points, linkedList_removeMedian_points);*/
+        Schedule.create_schedule_removeMedian(arrayList_removeMedian_points, linkedList_removeMedian_points);
 
 
         System.out.println(new Date() + ": @@@@@@@@@@ Конец автотестов @@@@@@@@@@\n");
